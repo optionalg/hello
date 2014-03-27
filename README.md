@@ -1,4 +1,13 @@
-hello
-=====
+Hello World!
+============
 
-Implementation of "hello world" in different languages
+Implementation of "Hello World!" in different languages.
+
+
+Compile everything:
+
+    make
+
+Run everything:
+
+    make run
